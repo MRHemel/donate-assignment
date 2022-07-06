@@ -103,6 +103,11 @@ hr {
     text-align: center;
 }
 
+.donate-title h1 {
+    font-size: 45px;
+    font-weight: 700;
+}
+
 .donate-box {
     display: flex;
     justify-content: center;
