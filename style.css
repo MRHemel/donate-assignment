@@ -94,3 +94,49 @@ hr {
 
     background-color: #DADADA;
 }
+
+.donate-plan {
+    margin-bottom: 130px;
+}
+
+.donate-title {
+    text-align: center;
+}
+
+.donate-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.donate-box-child {
+    border: 1px solid rgb(34, 33, 33);
+    width: 360px;
+    height: 352px;
+    border-radius: 5px;
+    margin-right: 24px;
+}
+
+.donate-box-child img {
+    margin-top: 63px;
+    margin-left: 23px;
+
+}
+
+.donate-box-child div {
+    margin-left: 23px;
+}
+
+#box1 {
+    background-color: rgba(79, 157, 166, 0.1);
+
+}
+
+#box2 {
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+#box3 {
+    background-color: rgba(154, 163, 57, 0.1);
+    ;
+}
